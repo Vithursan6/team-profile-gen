@@ -1,0 +1,33 @@
+{
+  "name": "team-profile-gen",
+  "version": "1.0.0",
+  "description": "Team Profile Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vithursan6/team-profile-gen.git"
+  },
+  "keywords": [
+    "Team",
+    "Profile",
+    "Generator",
+    "Module",
+    "10",
+    "Challenge"
+  ],
+  "author": "vithursan6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vithursan6/team-profile-gen/issues"
+  },
+  "homepage": "https://github.com/Vithursan6/team-profile-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
