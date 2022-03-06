@@ -29,5 +29,8 @@
   "homepage": "https://github.com/Vithursan6/team-profile-gen#readme",
   "dependencies": {
     "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
