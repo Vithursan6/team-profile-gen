@@ -108,7 +108,7 @@ that consists of the inputted information. The generate HTML file will be in the
 
 ## Demonstration
 
-- [Demo](https://youtu.be/FJDMogc28NQ)
+- [Demo](https://youtu.be/H7-MTh6x_Pc)
 
 <br>
 
@@ -117,10 +117,6 @@ that consists of the inputted information. The generate HTML file will be in the
 <br>
 
 ## Links
-
-Deployed Application:
-
- - https://vithursan6.github.io/team-profile-gen
 
 Github Repository:
 
